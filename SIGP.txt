@@ -1,0 +1,4 @@
+LiveTime = false
+Name = Veldora
+LastDate = 2025/12/13
+Banned = false
