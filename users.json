@@ -1,21 +1,18 @@
 [
-	{
-		"IP": "176.9.160.86",
-		"ID": "Veldora",
-		"PW": "123123",
-		"Lifetime": false,
-		"LastDate": "2025-12-13",
-		"Banned": false
-	}
-  
-	{
-		"IP": "188.40.217.165",
-		"ID": "Tata",
-		"PW": "123123",
-		"Lifetime": false,
-		"LastDate": "2025-12-13",
-		"Banned": false
-	}
-  
-  
+  {
+    "IP": "176.9.160.86",
+    "ID": "Veldora",
+    "PW": "123123",
+    "Lifetime": false,
+    "LastDate": "2025-12-13",
+    "Banned": false
+  },
+  {
+    "IP": "188.40.217.165",
+    "ID": "Tata",
+    "PW": "123123",
+    "Lifetime": false,
+    "LastDate": "2025-12-13",
+    "Banned": false
+  }
 ]
