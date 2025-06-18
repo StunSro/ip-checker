@@ -1,4 +1,1 @@
-LiveTime = false
-Name = Veldora
-LastDate = 2025/12/13
-Banned = false
+IP176.9.160.86 /lifetime = false /Name = Veldora /LastDate = 2025/12/13 /Banned = false
