@@ -1,26 +1,8 @@
 [
   {
-    "IP": "176.9.160.86",
-    "ID": "Veldora",
-    "PW": "123123",
-    "Lifetime": false,
-    "LastDate": "2025-12-13",
-    "Banned": false
+    "Serial": "7XtskVfZQtHPEZUefYHooLguQ9nQsY0SgW28iFgFujo=:s1oCaxI4HLgn/Rk/lokSEg==:8KKvOy1BZIzpwtiobSjydDhI+toKKZ9SvZtmbvdyE7VuWl3v4/U6VogBNfY7Sxx+5DRLGSApFI/7pXZmXAS4XnbYkb+KwxUOxfw2BQHTvadxbekZ9VnRVjU7ejZ1Lz1D7dioZ+3fHcHjBflN4aht2eBBOs4R5IeQ1fvw567yKfI="
   },
   {
-    "IP": "188.40.217.165",
-    "ID": "Tata",
-    "PW": "abc456",
-    "Lifetime": true,
-    "LastDate": "2099-01-01",
-    "Banned": false
-  },
-  {
-    "IP": "102.45.22.11",
-    "ID": "AdminTest",
-    "PW": "pass321",
-    "Lifetime": false,
-    "LastDate": "2024-12-31",
-    "Banned": true
+    "Serial": "2byH5Fvhr18Z5ylePQ/OQsvfy71GFyBQ+WoyBnE9624=:k3s/Z1IMfy8ajhrnNglw8A==:/qINxsd0stTIBAvaE9yRHlSJDOE9zMdPA2TqrvB9aCBteC8cWIqOv5HwFKudlBPd59sRh5mmQt9o0/1VbV6D/xLCE73wk/C47ViWqoNVKeSl871AJg/WaSJ1o0z4GPODLq3/Tmuh/gaTe0hBSF94yA=="
   }
 ]
